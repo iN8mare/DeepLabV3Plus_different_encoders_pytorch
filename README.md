@@ -1,6 +1,6 @@
 # DeepLabV3Plus_different_encoders_pytorch
 DeepLabV3Plus is a state-of-the-art semantic segmentation model that excels in accurately segmenting objects at multiple scales. <br>
-[(paper link)]([url](https://arxiv.org/abs/1802.02611)) <br>
+[(paper link)]((https://arxiv.org/abs/1802.02611)) <br>
 <br> 
 It has an encoder-decoder structure where any Deep CNN can be used as an intermediate encoder. Here, I have tried adding deep CNNs like ResNet50 and EfficientNet B6 (i will add more in future). <br>
 <a href="url"><img src="https://github.com/iN8mare/DeepLabV3Plus_different_encoders_pytorch/assets/120567183/52ba97d2-f68b-4685-851a-2aae946eb1a9" align="centre" height="256" width="720" ></a> <br>
